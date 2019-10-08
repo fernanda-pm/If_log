@@ -7,6 +7,7 @@ programa
 		//07.10.19
 		//Ler o numero de avaliaÃ§oes e
 		//as notas do aluno, informar a media
+		//Github
 		
 		inteiro avaliacoes, soma=0
 		real notas, media
@@ -28,10 +29,10 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
- * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 393; 
+ * @POSICAO-CURSOR = 154; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
