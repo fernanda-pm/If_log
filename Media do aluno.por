@@ -5,14 +5,15 @@ programa
 	{
 		//Fernanda P. Martins
 		//07.10.19
-		//Ler o numero de avaliaçoes e
+		//Ler o numero de avaliaÃ§oes e
 		//as notas do aluno, informar a media
 		//Github
+		//24.10.19
 		
 		inteiro avaliacoes, soma=0
 		real notas, media
 		
-		escreva ("Quantas avaliações? \n")
+		escreva ("Quantas avaliaÃ§Ãµes? \n")
 		leia (avaliacoes)
 
 		para (inteiro i=0; i<avaliacoes; i++)
@@ -29,8 +30,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta se��o do arquivo guarda informa��es do Portugol Studio.
- * Voc� pode apag�-la se estiver utilizando outro editor.
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 154; 
  * @PONTOS-DE-PARADA = ;
